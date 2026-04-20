@@ -18,4 +18,4 @@ A clean and fully responsive business card design. It is a challenge from [devch
 - HTML5
 - Tailwind CSS
 
-## [Live Demo]()
+## [Live Demo](https://nehanawar025.github.io/business-blog-card/)
